@@ -1,3 +1,3 @@
 # SANGO
 SANGOのLP
-https://aiesec-in-japan.github.io/SANGO/SANGO_LP/
+https://fk-in-africa.github.io/LP_TryAngle/SANGO_LP/
