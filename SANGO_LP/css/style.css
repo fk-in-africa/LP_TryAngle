@@ -6,7 +6,7 @@ body {
 }
 
 .banner-area{
-  background-color: #037ef3;
+  background-color: #F48924;
   /* 上のbackground-color: blue;をコメントアウトして、した以下で背景を設定しましょう。 */
   background-image: url("/img/examples.png");
   img:100%;
